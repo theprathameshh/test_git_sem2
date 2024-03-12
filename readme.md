@@ -1,3 +1,6 @@
+## This is for training purpose
+hehrhe shutup
+
 # Important note
 
 As of September 2023, sgkit used in Chapter 6 has a bug. If you use Chapter 6, `pip install` this:
